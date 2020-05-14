@@ -1,1 +1,1 @@
-# arts-wordpress-wiki
+# VCUarts WordPress Documentation
