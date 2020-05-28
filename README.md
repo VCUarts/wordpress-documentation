@@ -1,1 +1,1 @@
-# VCUarts WordPress Documentation Wiki
+# VCUarts New Website Documentation and Content Governance Wiki
